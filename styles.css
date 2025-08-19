@@ -1,0 +1,44 @@
+title {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: navy;
+}
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 5em;
+    font-weight: bold;
+    color: rgb(67, 67, 185);
+    text-align: center;
+}
+p {
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    color: rgb(255, 255, 255);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+}
+
+body {
+    background: linear-gradient(135deg, #232526 0%, #414345 100%);
+    min-height: 100vh;
+}
+.card {
+    background: rgba(255,255,255,0.05);
+    border: none;
+    border-radius: 1rem;
+    backdrop-filter: blur(4px);
+}
+.card-title {
+    font-size: 5em;
+    color: #4343b9;
+}
+a {
+    color: #ffd700;
+    text-decoration: underline;
+}
