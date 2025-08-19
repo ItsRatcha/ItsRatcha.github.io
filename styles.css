@@ -11,10 +11,16 @@ h1 {
     color: rgb(67, 67, 185);
     text-align: center;
 }
+h2 {
+    color: white;
+}
+ul {
+    color: white;
+}
 p {
     font-family: Arial, sans-serif;
     font-size: 1.2em;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 img {
